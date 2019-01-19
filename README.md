@@ -6,7 +6,7 @@ This contains my notes (in progress) of research papers I've read relevant to my
 
 ## 2018
 ## 2017
-- [Learning to See Physics via Visual De-animation](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Learning_to_see_physics_via_visual_de_animation.md), NeurIPS 2017 Spotlight [\[page\]](http://vda.csail.mit.edu/)
+- [Learning to See Physics via Visual De-animation](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Learning_to_see_physics_via_visual_de_animation.md), NeurIPS 2017 Spotlight [\[Project Page\]](http://vda.csail.mit.edu/)
 ## 2016
 ## 2015
 ## 2014
