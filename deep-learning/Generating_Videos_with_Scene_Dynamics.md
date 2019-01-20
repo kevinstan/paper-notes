@@ -1,0 +1,5 @@
+# Summary:
+In this paper, Vondrick et al. utilize large and unlabeled datasets to acquire priors for scene dynamics. They propose a video generator network that consists of a moving foreground stream with fractionally-strided spatio-temporal convolutions, and a static background stream of fractionally-strided spatial convolutions. Although they evaluate qualitative results through psychophysical user studies on Amazon Mechanical Turk, the generated videos are often blurry. Additionally, they demonstrate future generation from a still image by prepending a five-layer conv net to the front of the generator similarly to what conditional GANs do, and by adding the corresponding loss term which minimizes the L1 distance between the input image and first generated frame.
+
+# Takeaway:
+They were, to their knowledge, the first to offer an approach that directly generates multi- frame videos from a single static image. However, sometimes the generated video was blurry or added hallucinated objects.
