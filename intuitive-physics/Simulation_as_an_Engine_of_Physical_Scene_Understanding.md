@@ -1,0 +1,5 @@
+# Summary: 
+In this paper, Battaglia et al. presents one of the first accounts of a formalized, testable model that accounts for diverse physical judgements in complex scenes, in contrast to previous works which often either lack the computational rigor or address only simple and primitive notions of physics in the real world. Leveraging advancements in graphics and simulations tools, as well as Bayesian cognitive modelling, they present a framework called an intuitive physics engine (IPE) analagous to running men- tal forward simulations, using an approximate rigid-body dynamics simulator (Open Dynamics Engine) alongside a Monte Carlo simulator for forward simulation as a way to represent approximating probabili- ties for simulation.
+
+# Takeaway: 
+Mental simulation can be viewed as a probabilistic approximate simulation. This established a grounding for further works in predictive vision that choose probabilistic approaches as opposed to deterministic ones in predicting future scenarios.
