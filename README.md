@@ -17,8 +17,14 @@ This contains my notes of research papers I've read relevant to my undergraduate
 ## 2016
 - [Single image 3d interpreter network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
 - [Generating Videos with Scene Dynamics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Generating_Videos_with_Scene_Dynamics.md), NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1609.02612)
+- Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1610.07584)
+- Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks, NeurIPS 2016 [\[Page\]](http://visualdynamics.csail.mit.edu/)
+- Anticipating Visual Representations from Unlabeled Video, CVPR 2016 [\[Paper\]](https://arxiv.org/abs/1504.08023)
 
 ## 2015
+- Galileo: Perceiving Physical Object Properties by
+Integrating a Physics Engine with Deep Learning, NeurIPS 2015 [\[Paper\]](http://www.mit.edu/~ilkery/papers/phys_nips.pdf)
+
 ## 2014
 ## 2013
 - [Simulation as an Engine to Physical Scene Understanding](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Simulation_as_an_Engine_of_Physical_Scene_Understanding.md), PNAS 2013, [\[Paper\]](https://www.pnas.org/content/pnas/110/45/18327.full.pdf)
