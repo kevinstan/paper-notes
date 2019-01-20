@@ -19,4 +19,4 @@ This contains my notes (in progress) of research papers I've read relevant to my
 ## 2015
 ## 2014
 ## 2013
-- [Simulation as an Engine to Physical Scene Understand](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Simulation_as_an_Engine_of_Physical_Scene_Understanding.md), PNAS 2013, [\[Paper\]](https://www.pnas.org/content/pnas/110/45/18327.full.pdf)
+- [Simulation as an Engine to Physical Scene Understanding](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Simulation_as_an_Engine_of_Physical_Scene_Understanding.md), PNAS 2013, [\[Paper\]](https://www.pnas.org/content/pnas/110/45/18327.full.pdf)
