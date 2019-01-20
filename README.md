@@ -34,11 +34,15 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1610.07584)
 - Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks, NeurIPS 2016 [\[Page\]](http://visualdynamics.csail.mit.edu/)
 - Anticipating Visual Representations from Unlabeled Video, CVPR 2016 [\[Paper\]](https://arxiv.org/abs/1504.08023)
+- View Synthesis by Appearance Flow, ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1605.03557)
+
 
 ## 2015
 - Galileo: Perceiving Physical Object Properties by
 Integrating a Physics Engine with Deep Learning, NeurIPS 2015 [\[Paper\]](http://www.mit.edu/~ilkery/papers/phys_nips.pdf)
-- GLearning Visual Biases from Human Imagination, NeurIPS 2015 [\[Paper\]](https://papers.nips.cc/paper/5781-learning-visual-biases-from-human-imagination.pdf)
+- Learning Visual Biases from Human Imagination, NeurIPS 2015 [\[Paper\]](https://papers.nips.cc/paper/5781-learning-visual-biases-from-human-imagination.pdf)
+- A Recurrent Latent Variable Model for Sequential Data, NeurIPS 2015 [\[Paper\]](https://arxiv.org/abs/1506.02216)
+
 
 
 ## 2014
