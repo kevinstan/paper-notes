@@ -8,11 +8,15 @@ This contains my notes of research papers I've read relevant to my undergraduate
 ## 2018
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
 - [Neural Scene Representation and Rendering](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Neural%20Scene%20Representation%20and%20Rendering.md), Science 2018 [\[Page\]](https://deepmind.com/blog/neural-scene-representation-and-rendering/)
+- Learning Shape Priors for Single-View 3D Completion and Reconstruction, ECCV 2018 [\[Paper\]](https://jiajunwu.com/papers/shapehd_eccv.pdf)
+
 
 
 ## 2017
 - [Learning to See Physics via Visual De-animation](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Learning_to_see_physics_via_visual_de_animation.md), NeurIPS 2017 Spotlight [\[Page\]](http://vda.csail.mit.edu/)
 - [A Compositional Object-Based Approach to Learning Physical Dynamics](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/A_compositional_object_based_approach_to_learning_physical_dynamics.md), ICLR 2017, [\[Page\]](http://mbchang.github.io/npe/)
+- MarrNet: 3D Shape Reconstruction via 2.5D Sketches, NeurIPS 2017 [\[Paper\]](https://jiajunwu.com/papers/marrnet_nips.pdf)
+
 
 ## 2016
 - [Single image 3d interpreter network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
@@ -24,8 +28,12 @@ This contains my notes of research papers I've read relevant to my undergraduate
 ## 2015
 - Galileo: Perceiving Physical Object Properties by
 Integrating a Physics Engine with Deep Learning, NeurIPS 2015 [\[Paper\]](http://www.mit.edu/~ilkery/papers/phys_nips.pdf)
+- GLearning Visual Biases from Human Imagination, NeurIPS 2015 [\[Paper\]](https://papers.nips.cc/paper/5781-learning-visual-biases-from-human-imagination.pdf)
+
 
 ## 2014
+- Learning physics from dynamical scenes, CogSci 2014 [\[Paper\]](https://stuhlmueller.org/papers/physics-cogsci2014.pdf)
+
 ## 2013
 - [Simulation as an Engine to Physical Scene Understanding](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Simulation_as_an_Engine_of_Physical_Scene_Understanding.md), PNAS 2013, [\[Paper\]](https://www.pnas.org/content/pnas/110/45/18327.full.pdf)
 - Harvesting Motion Patterns from Still Images from the Internet, CogSci 2014 Oral, [\[Paper\]](https://jiajunwu.com/papers/motion_cogsci.pdf)
