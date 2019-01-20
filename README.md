@@ -12,8 +12,6 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Reasoning About Physical Interactions with Object-Oriented Prediction and Planning, ICLR 2019, [\[Paper\]](https://jiajunwu.com/papers/o2p2_iclr.pdf)
 - Learning Unsupervised Learning Rules, ICLR 2019 Oral, [\[Paper\]](https://arxiv.org/abs/1804.00222)
 
-
-
 ## 2018
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
 - [Neural Scene Representation and Rendering](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Neural%20Scene%20Representation%20and%20Rendering.md), Science 2018 [\[Page\]](https://deepmind.com/blog/neural-scene-representation-and-rendering/)
@@ -38,8 +36,7 @@ Reinforcement Learning Problems, NeurIPS 2018 [\[Paper\]](http://www.christopher
 - An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents
 Felipe, [\[Paper\]](https://arxiv.org/abs/1812.07069)
 - Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm, ICLR 2018 [\[Paper\]](https://arxiv.org/abs/1710.11622)
-
-
+- Emergent Complexity via Multi-Agent Competition, ICLR 2018 [\[Paper\]](https://arxiv.org/abs/1710.03748)
 
 ## 2017
 - [Learning to See Physics via Visual De-animation](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Learning_to_see_physics_via_visual_de_animation.md), NeurIPS 2017 Spotlight [\[Page\]](http://vda.csail.mit.edu/)
@@ -48,7 +45,9 @@ Felipe, [\[Paper\]](https://arxiv.org/abs/1812.07069)
 - Building machines that learn and think like people, Behavioral and Brain Sciences 2017 [\[Paper\]](https://arxiv.org/abs/1604.00289)
 - Curiosity-driven Exploration by Self-supervised Prediction, ICML 2017 [\[Page\]](https://pathak22.github.io/noreward-rl/)
 - PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs, NeurIPS 2017 [\[Paper\]](https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf)
-
+- Multi-agent Reinforcement Learning in Sequential Social Dilemmas, [\[Paper\]](https://arxiv.org/abs/1702.03037)
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, NeurIPS 2017 [\[Paper\]](https://arxiv.org/abs/1706.02275)
+- Learning with Opponent-Learning Awareness, [\[Paper\]](https://arxiv.org/abs/1709.04326)
 
 ## 2016
 - [Single Image 3d Interpreter Network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
