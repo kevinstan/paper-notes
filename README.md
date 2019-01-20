@@ -8,6 +8,11 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - M^3RL: Mind-aware Multi-agent Management Reinforcement Learning, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.00147) 
 - Eidetic 3D LSTM: A Model for Video Prediction and Beyond, ICLR 2019, [\[Paper\]](https://openreview.net/pdf?id=B1lKS2AqtX) 
 - Analogues of Mental Simulation and Imagination in Deep Learning, Current Opinion in Behavioral Sciences 2019, [\[Paper\]](http://www.jesshamrick.com/publications/pdf/Hamrick2019-Analogues_of_mental_simulation.pdf)
+- The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision, ICLR 2019, [\[Paper\]](https://openreview.net/pdf?id=rJgMlhRctm)
+- Reasoning About Physical Interactions with Object-Oriented Prediction and Planning, ICLR 2019, [\[Paper\]](https://jiajunwu.com/papers/o2p2_iclr.pdf)
+- Learning Unsupervised Learning Rules, ICLR 2019 Oral, [\[Paper\]](https://arxiv.org/abs/1804.00222)
+
+
 
 ## 2018
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
@@ -23,6 +28,17 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition, CoRL 2018 Oral [\[Paper\]](https://arxiv.org/abs/1810.00912)
 - Exploration by Random Network Distillation [\[Paper\]](https://arxiv.org/abs/1810.12894)
 - Are GANs Created Equal? A Large-Scale Study, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1711.10337)
+- Stochastic Video Generation with a Learned Prior, PMLR 2018 [\[Paper\]](https://arxiv.org/abs/1802.07687)
+- Stochastic Variational Video Prediction, ICLR 2018 [\[Paper\]](https://openreview.net/pdf?id=rk49Mg-CW)
+- Learning Hierarchical Semantic Image Manipulation through Structured Representations, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.07535)
+- Mid-Level Visual Representations Improve Generalization and Sample Efficiency for Learning Active Tasks, [\[Page\]](https://perceptual.actor/)
+- Deep Curiosity Search: Intra-Life Exploration
+Can Improve Performance on Challenging Deep
+Reinforcement Learning Problems, NeurIPS 2018 [\[Paper\]](http://www.christopherstanton.net/files/deepCS.pdf)
+- An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents
+Felipe, [\[Paper\]](https://arxiv.org/abs/1812.07069)
+- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm, ICLR 2018 [\[Paper\]](https://arxiv.org/abs/1710.11622)
+
 
 
 ## 2017
@@ -31,8 +47,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - MarrNet: 3D Shape Reconstruction via 2.5D Sketches, NeurIPS 2017 [\[Paper\]](https://jiajunwu.com/papers/marrnet_nips.pdf)
 - Building machines that learn and think like people, Behavioral and Brain Sciences 2017 [\[Paper\]](https://arxiv.org/abs/1604.00289)
 - Curiosity-driven Exploration by Self-supervised Prediction, ICML 2017 [\[Page\]](https://pathak22.github.io/noreward-rl/)
-- PredRNN: Recurrent Neural Networks for Predictive
-Learning using Spatiotemporal LSTMs, NeurIPS 2017 [\[Paper\]](https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf)
+- PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs, NeurIPS 2017 [\[Paper\]](https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf)
 
 
 ## 2016
@@ -66,4 +81,8 @@ Integrating a Physics Engine with Deep Learning, NeurIPS 2015 [\[Paper\]](http:/
 ## Before 2013
 - Formal Theory of Creativity, Fun,
 and Intrinsic Motivation, [\[Paper\]](http://people.idsia.ch/~juergen/ieeecreative.pdf)
+- Intrinsically Motivated Reinforcement Learning, [\[Paper\]](http://www.cs.cornell.edu/~helou/IMRL.pdf)
+- Where Do Rewards Come From?, [\[Paper\]](http://www-anw.cs.umass.edu/pubs/2009/singh_l_b_09.pdf)
+
+
 
