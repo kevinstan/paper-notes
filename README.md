@@ -9,6 +9,8 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
 - [Neural Scene Representation and Rendering](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Neural%20Scene%20Representation%20and%20Rendering.md), Science 2018 [\[Page\]](https://deepmind.com/blog/neural-scene-representation-and-rendering/)
 - Learning Shape Priors for Single-View 3D Completion and Reconstruction, ECCV 2018 [\[Paper\]](https://jiajunwu.com/papers/shapehd_eccv.pdf)
+- Neural Processes, [\[Paper\]](https://arxiv.org/abs/1807.01622)
+
 
 
 
