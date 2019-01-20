@@ -14,10 +14,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Encoding Spatial Relations from Natural Language, [\[Paper\]](https://arxiv.org/abs/1807.01670)
 - Learning Models for Visual 3D Localization with Implicit Mapping, [\[Paper\]](https://arxiv.org/abs/1807.03149)
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1810.02338)
-
-
-
-
+- Machine Theory of Mind, PMLR 2018 [\[Page\]](http://proceedings.mlr.press/v80/rabinowitz18a.html)
 
 
 ## 2017
@@ -35,6 +32,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks, NeurIPS 2016 [\[Page\]](http://visualdynamics.csail.mit.edu/)
 - Anticipating Visual Representations from Unlabeled Video, CVPR 2016 [\[Paper\]](https://arxiv.org/abs/1504.08023)
 - View Synthesis by Appearance Flow, ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1605.03557)
+- Towards Conceptual Compression, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1604.08772)
 
 
 ## 2015
@@ -42,6 +40,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 Integrating a Physics Engine with Deep Learning, NeurIPS 2015 [\[Paper\]](http://www.mit.edu/~ilkery/papers/phys_nips.pdf)
 - Learning Visual Biases from Human Imagination, NeurIPS 2015 [\[Paper\]](https://papers.nips.cc/paper/5781-learning-visual-biases-from-human-imagination.pdf)
 - A Recurrent Latent Variable Model for Sequential Data, NeurIPS 2015 [\[Paper\]](https://arxiv.org/abs/1506.02216)
+- DRAW: A Recurrent Neural Network For Image Generation, PMLR 2015 [\[Paper\]](https://arxiv.org/abs/1502.04623)
 
 
 
@@ -51,4 +50,8 @@ Integrating a Physics Engine with Deep Learning, NeurIPS 2015 [\[Paper\]](http:/
 ## 2013
 - [Simulation as an Engine to Physical Scene Understanding](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Simulation_as_an_Engine_of_Physical_Scene_Understanding.md), PNAS 2013, [\[Paper\]](https://www.pnas.org/content/pnas/110/45/18327.full.pdf)
 - Harvesting Motion Patterns from Still Images from the Internet, CogSci 2014 Oral, [\[Paper\]](https://jiajunwu.com/papers/motion_cogsci.pdf)
+
+## Before 2013
+- Formal Theory of Creativity, Fun,
+and Intrinsic Motivation, [\[Paper\]](http://people.idsia.ch/~juergen/ieeecreative.pdf)
 
