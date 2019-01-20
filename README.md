@@ -4,12 +4,18 @@ This contains my notes of research papers I've read relevant to my undergraduate
 
 ## 2019
 - BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.08272) 
+- Time-Agnostic Prediction: Predicting Predictable Video Frames, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1808.07784) 
 
 ## 2018
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
 - [Neural Scene Representation and Rendering](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Neural%20Scene%20Representation%20and%20Rendering.md), Science 2018 [\[Page\]](https://deepmind.com/blog/neural-scene-representation-and-rendering/)
 - Learning Shape Priors for Single-View 3D Completion and Reconstruction, ECCV 2018 [\[Paper\]](https://jiajunwu.com/papers/shapehd_eccv.pdf)
 - Neural Processes, [\[Paper\]](https://arxiv.org/abs/1807.01622)
+- Encoding Spatial Relations from Natural Language, [\[Paper\]](https://arxiv.org/abs/1807.01670)
+- Learning Models for Visual 3D Localization with Implicit Mapping, [\[Paper\]](https://arxiv.org/abs/1807.03149)
+- Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1810.02338)
+
+
 
 
 
@@ -18,6 +24,8 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - [Learning to See Physics via Visual De-animation](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/Learning_to_see_physics_via_visual_de_animation.md), NeurIPS 2017 Spotlight [\[Page\]](http://vda.csail.mit.edu/)
 - [A Compositional Object-Based Approach to Learning Physical Dynamics](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/A_compositional_object_based_approach_to_learning_physical_dynamics.md), ICLR 2017, [\[Page\]](http://mbchang.github.io/npe/)
 - MarrNet: 3D Shape Reconstruction via 2.5D Sketches, NeurIPS 2017 [\[Paper\]](https://jiajunwu.com/papers/marrnet_nips.pdf)
+- Building machines that learn and think like people, Behavioral and Brain Sciences 2017 [\[Paper\]](https://arxiv.org/abs/1604.00289)
+
 
 
 ## 2016
