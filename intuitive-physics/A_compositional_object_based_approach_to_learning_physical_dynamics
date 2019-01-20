@@ -1,0 +1,5 @@
+# Summary: 
+In this paper, Chang et al. present a compositional object-based approach to physical scene understanding, i.e. an approach that breaks down the scene into modular components that is learned internally, and can generalize to a variable number of objects as well as novel scenes. They introduce the Neural Physics Engine (NPE) that combines top-down and bottom-up approaches to making judgements about motion predictions of physical judgments such as object mass. They make two assumptions in the physics-based simulator in regards to spatial and temporal invariance: physics does not change across inertial frames, and physics is Markovian, respectively.
+
+# Takeaway: 
+Compositionality is a key ingredient to effectively generalizing to novel scenes with variable object properties. Thus, purely visual approaches with not work well – they must be jointly assisted with physics engines. Although they evaluate their approach on rigid-body dynamics in 2D worlds, there remains a large gap in achieving similar results for 3D worlds.
