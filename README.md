@@ -6,6 +6,8 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.08272) 
 - Time-Agnostic Prediction: Predicting Predictable Video Frames, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1808.07784) 
 - M^3RL: Mind-aware Multi-agent Management Reinforcement Learning, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.00147) 
+- Eidetic 3D LSTM: A Model for Video Prediction and Beyond, ICLR 2019, [\[Paper\]](https://openreview.net/pdf?id=B1lKS2AqtX) 
+- Analogues of Mental Simulation and Imagination in Deep Learning, Current Opinion in Behavioral Sciences 2019, [\[Paper\]](http://www.jesshamrick.com/publications/pdf/Hamrick2019-Analogues_of_mental_simulation.pdf)
 
 ## 2018
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
@@ -29,6 +31,9 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - MarrNet: 3D Shape Reconstruction via 2.5D Sketches, NeurIPS 2017 [\[Paper\]](https://jiajunwu.com/papers/marrnet_nips.pdf)
 - Building machines that learn and think like people, Behavioral and Brain Sciences 2017 [\[Paper\]](https://arxiv.org/abs/1604.00289)
 - Curiosity-driven Exploration by Self-supervised Prediction, ICML 2017 [\[Page\]](https://pathak22.github.io/noreward-rl/)
+- PredRNN: Recurrent Neural Networks for Predictive
+Learning using Spatiotemporal LSTMs, NeurIPS 2017 [\[Paper\]](https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf)
+
 
 ## 2016
 - [Single Image 3d Interpreter Network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
