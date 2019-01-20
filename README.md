@@ -17,7 +17,10 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1810.02338)
 - Machine Theory of Mind, PMLR 2018 [\[Page\]](http://proceedings.mlr.press/v80/rabinowitz18a.html)
 - Investigating Human Priors for Playing Video Games, ICML 2018 [\[Paper\]](https://arxiv.org/pdf/1802.10217.pdf)
-
+- Learning to Play With Intrinsically-Motivated, Self-Aware Agents [\[Paper\]](https://arxiv.org/pdf/1802.07442.pdf)
+- Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition, CoRL 2018 Oral [\[Paper\]](https://arxiv.org/abs/1810.00912)
+- Exploration by Random Network Distillation [\[Paper\]](https://arxiv.org/abs/1810.12894)
+- Are GANs Created Equal? A Large-Scale Study, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1711.10337)
 
 
 ## 2017
@@ -37,7 +40,6 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Towards Conceptual Compression, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1604.08772)
 - Opponent Modeling in Deep Reinforcement Learning, PMLR 2016 [\[Page\]](http://proceedings.mlr.press/v48/he16.html)
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1604.06057)
-
 
 
 ## 2015
