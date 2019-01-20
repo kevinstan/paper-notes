@@ -29,7 +29,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 
 
 ## 2016
-- [Single image 3d interpreter network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
+- [Single Image 3d Interpreter Network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
 - [Generating Videos with Scene Dynamics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Generating_Videos_with_Scene_Dynamics.md), NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1609.02612)
 - Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1610.07584)
 - Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks, NeurIPS 2016 [\[Page\]](http://visualdynamics.csail.mit.edu/)
