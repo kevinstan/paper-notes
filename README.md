@@ -1,6 +1,6 @@
 # paper-notes
 
-This contains my notes (in progress) of research papers I've read relevant to my undergraduate thesis, with topics ranging from deep learning, reinforcement learning, computer vision, and cognitive science. Papers are organized chronologically by publication date, and then further arranged by topic. The paper titles here are linked to my notes. Inspired by [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes)
+This contains my notes of research papers I've read relevant to my undergraduate thesis, with topics ranging from deep learning, reinforcement learning, computer vision, and cognitive science. Papers are organized chronologically by publication date, and then further arranged by topic. The paper titles here are linked to my notes (those without links are in progress). Inspired by [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes)
 
 ## 2019
 
