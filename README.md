@@ -5,6 +5,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 ## 2019
 - BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.08272) 
 - Time-Agnostic Prediction: Predicting Predictable Video Frames, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1808.07784) 
+- M^3RL: Mind-aware Multi-agent Management Reinforcement Learning, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.00147) 
 
 ## 2018
 - [3D-Aware Scene Manipulation via Inverse Graphics](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/3D_Aware_Scene_Manipulation_via_Inverse_Graphics.md), NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1808.09351)
@@ -15,6 +16,8 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Learning Models for Visual 3D Localization with Implicit Mapping, [\[Paper\]](https://arxiv.org/abs/1807.03149)
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding, NeurIPS 2018 [\[Paper\]](https://arxiv.org/abs/1810.02338)
 - Machine Theory of Mind, PMLR 2018 [\[Page\]](http://proceedings.mlr.press/v80/rabinowitz18a.html)
+- Investigating Human Priors for Playing Video Games, ICML 2018 [\[Paper\]](https://arxiv.org/pdf/1802.10217.pdf)
+
 
 
 ## 2017
@@ -22,8 +25,7 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - [A Compositional Object-Based Approach to Learning Physical Dynamics](https://github.com/kevinstan/paper-notes/blob/master/intuitive-physics/A_compositional_object_based_approach_to_learning_physical_dynamics.md), ICLR 2017, [\[Page\]](http://mbchang.github.io/npe/)
 - MarrNet: 3D Shape Reconstruction via 2.5D Sketches, NeurIPS 2017 [\[Paper\]](https://jiajunwu.com/papers/marrnet_nips.pdf)
 - Building machines that learn and think like people, Behavioral and Brain Sciences 2017 [\[Paper\]](https://arxiv.org/abs/1604.00289)
-
-
+- Curiosity-driven Exploration by Self-supervised Prediction, ICML 2017 [\[Page\]](https://pathak22.github.io/noreward-rl/)
 
 ## 2016
 - [Single Image 3d Interpreter Network](https://github.com/kevinstan/paper-notes/blob/master/deep-learning/Single_Image_3D_Interpreter_Network.md), ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1604.08685)
@@ -33,6 +35,9 @@ This contains my notes of research papers I've read relevant to my undergraduate
 - Anticipating Visual Representations from Unlabeled Video, CVPR 2016 [\[Paper\]](https://arxiv.org/abs/1504.08023)
 - View Synthesis by Appearance Flow, ECCV 2016 [\[Paper\]](https://arxiv.org/abs/1605.03557)
 - Towards Conceptual Compression, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1604.08772)
+- Opponent Modeling in Deep Reinforcement Learning, PMLR 2016 [\[Page\]](http://proceedings.mlr.press/v48/he16.html)
+- Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation, NeurIPS 2016 [\[Paper\]](https://arxiv.org/abs/1604.06057)
+
 
 
 ## 2015
