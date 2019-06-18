@@ -1,6 +1,6 @@
 # paper-notes
 
-This contains my notes of research papers I've read during the time working on my undergraduate thesis, with topics ranging from deep learning, reinforcement learning, computer vision, and cognitive science. Papers are organized chronologically by publication date, and then further arranged by topic. The paper titles here are linked to my notes (those without links are in progress). Inspired by [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes)
+This contains my notes of research papers I've read during the time working on my **undergraduate** thesis, with topics ranging from deep learning, reinforcement learning, computer vision, and cognitive science. Papers are organized chronologically by publication date, and then further arranged by topic. The paper titles here are linked to my notes (those without links are in progress). Inspired by [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes)
 
 ## 2019
 - BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop, ICLR 2019, [\[Paper\]](https://arxiv.org/abs/1810.08272) 
